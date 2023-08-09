@@ -24,5 +24,5 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-riveiro-uy&show_icons=true)] 
 
-[!This is my jorney](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pablo-riveiro-uy&theme=darkmode)
+[![This is my jorney](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pablo-riveiro-uy&theme=darkmode)]
 
