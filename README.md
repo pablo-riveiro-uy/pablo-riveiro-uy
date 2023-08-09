@@ -25,9 +25,10 @@
 </div>
 
 
-
+<div align="center">
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-riveiro-uy&show_icons=true)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pablo-riveiro-uy" alt="pablo-riveiro-uy" /></a> </p>
+</div>
 
 
