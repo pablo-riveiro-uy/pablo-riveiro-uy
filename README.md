@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo Riveiro</h1>
-<h3 align="center">From TV filmaker to Developer, growing inward every day</h3>
+<h3 align="center">From TV filmmaker to Developer, growing inward every day</h3>
 
 ![github-header-image](https://github.com/pablo-riveiro-uy/pablo-riveiro-uy/assets/58869893/9a934ea1-7b01-4cc5-a280-31cf50603657)
 
