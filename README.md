@@ -8,7 +8,8 @@
   I have studies in C, Python and MySQL, and some knowledge in React, JavaScript, HTML, CSS and Laravel. I would like to be part of a company that allows me to continue growing and developing my skills as a programmer. I am a flexible, responsible person with good ability to work in a team.
 </p>
 
-- 🔭 I’m currently working on [Python projects as AirBnb Clone](https://github.com/pablo-riveiro-uy/holbertonschool-AirBnB_clone_v2)
+- 🔭 My last project was [CarToFix, a web app to manage a mechanic Workshop](https://github.com/pablo-riveiro-uy/holbertonschool-AirBnB_clone_v2)
+  - This was a team project on Python, Flask, sqlAlchemy, React, Tailwind. Was a very good experiance bulding a real aplication on a really short period of time
 
 - 🌱 In this 2023 i'm learning various Technologies at Holberton School Uruguay as Python, C, Html, CSS, MySql, MySql alchemy.
 
