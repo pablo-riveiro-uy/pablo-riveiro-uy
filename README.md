@@ -4,10 +4,15 @@
 ![github-header-image](https://github.com/pablo-riveiro-uy/pablo-riveiro-uy/assets/58869893/9a934ea1-7b01-4cc5-a280-31cf50603657)
 
 <p  align="center">
-  Hello, I am a developer who comes from the world of audiovisual production. For 15 years I dedicated myself to working in television channels and in my own projects, playing different roles as a cameraman, video editor, scriptwriter and creative. I am passionate about learning new things and that's why I decided to venture into programming. 
-  I have studies in C, Python and MySQL, and some knowledge in React, JavaScript, HTML, CSS and Laravel. I would like to be part of a company that allows me to continue growing and developing my skills as a programmer. I am a flexible, responsible person with good ability to work in a team.
+  Hello, I am a developer who comes from the world of audiovisual production. For 15 years I dedicated myself to working in television channels and in my own projects, playing different roles as a cameraman, video editor, scriptwriter and creative. I am passionate about learning new things and that's why I decided to venture into programming.   
+  
+  I have studies in C, Python and MySQL, and some knowledge in React, JavaScript, HTML, CSS and Laravel. I would like to be part of a company that allows me to continue growing and developing my skills as a programmer. I am a flexible, responsible person with good ability to work in a team.  
+  
 </p>
+- As a filmaker im always on touch with artist and shows, in 2024 every Gustavo Cerati fan remembered the tenth anniversary of the fisical disapearing of this great Argentinaian rock legend. A group of people producced a show in honor Gustavo, and i thought on doing something speacial that mix technology and audiovisual. So i build a web app using react that people reach scanning a QR and leave a message in honor to Gustavo, this messagges were stored on firebasem, and everbody can see it on a big screen projection in the show. I call it Ceratwit, and have a admin view to choose what message could be seen on screen.  
 
+  [CeraTwit](https://github.com/pablo-riveiro-uy/ceratwit)  
+  
 - I try to have fun while i'm learning: Looking to practice reaching public api's i found one that take my atentioon, interpol has an open api, and haveing a look to interpol official page, i discover that their UI is not what i was specting as a scyfy and cinema lover, their site is not like those that you see in the movies where cops and spys look for records, so i made my own interpol UI with the official UI and i call it INTERPAUL.:  
 
   [My interpol site version](https://interpaul.netlify.app/)
