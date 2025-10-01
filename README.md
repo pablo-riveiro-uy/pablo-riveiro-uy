@@ -9,6 +9,7 @@
   I have studies in C, Python and MySQL, and some knowledge in React, JavaScript, HTML, CSS and Laravel. I would like to be part of a company that allows me to continue growing and developing my skills as a programmer. I am a flexible, responsible person with good ability to work in a team.  
   
 </p>
+
 - As a filmaker im always on touch with artist and shows, in 2024 every Gustavo Cerati fan remembered the tenth anniversary of the fisical disapearing of this great Argentinaian rock legend. A group of people producced a show in honor Gustavo, and i thought on doing something speacial that mix technology and audiovisual. So i build a web app using react that people reach scanning a QR and leave a message in honor to Gustavo, this messagges were stored on firebasem, and everbody can see it on a big screen projection in the show. I call it Ceratwit, and have a admin view to choose what message could be seen on screen.  
 
   [CeraTwit](https://github.com/pablo-riveiro-uy/ceratwit)  
