@@ -7,8 +7,10 @@
   Hello, I am a developer who comes from the world of audiovisual production. For 15 years I dedicated myself to working in television channels and in my own projects, playing different roles as a cameraman, video editor, scriptwriter and creative. I am passionate about learning new things and that's why I decided to venture into programming. 
   I have studies in C, Python and MySQL, and some knowledge in React, JavaScript, HTML, CSS and Laravel. I would like to be part of a company that allows me to continue growing and developing my skills as a programmer. I am a flexible, responsible person with good ability to work in a team.
 </p>
+- I try to have fun while i'm learning: Looking to practice reaching public api's i found one that take my atentioon, interpol has an open api, and haveing a look to interpol official page, i discover that their UI is not what i was specting as a scyfy and cinema lover, their site is not like those that you see in the movies where cops and spys look for records, so i made my own interpol UI with the official UI and i call it INTERPAUL.:
+[My interpol site version](https://interpaul.netlify.app/))
 
-- 🔭 My last project was [CarToFix, a web app to manage a mechanic Workshop](https://github.com/pablo-riveiro-uy/holbertonschool-AirBnB_clone_v2)
+- 🔭 one of my more complex project was [CarToFix, a web app to manage a mechanic Workshop](https://github.com/pablo-riveiro-uy/holbertonschool-CarToFix)
   - This was a team project on Python, Flask, sqlAlchemy, React, Tailwind. Was a very good experiance bulding a real aplication on a really short period of time
 
 - 🌱 In this 2023 i'm learning various Technologies at Holberton School Uruguay as Python, C, Html, CSS, MySql, MySql alchemy.
